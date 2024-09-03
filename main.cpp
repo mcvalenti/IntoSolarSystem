@@ -22,6 +22,13 @@ using namespace std;
 
 int main() {
 
+	/*
+	 Under development:
+	 Lambert's Problem algorithm.
+	 The idea is to use spice + some computation to generates the
+	 imputs of a Venus flyby for GMAT simulation.
+	 */
+
 	const double deg2rad=M_PI/180.0;
 
 	// STUMPFF FUNCTIONS
