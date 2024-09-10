@@ -96,7 +96,7 @@ const DVector DVector::operator*( double val)const{
     return result;
 }
 
-double DVector::operator*(const DVector &other){
+double DVector::operator*(const DVector &other)const{
 	//  Computes the dot product a.b=c
     double dotproduct=0;
     if(other.asize!=this->asize)

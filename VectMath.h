@@ -34,7 +34,8 @@ class DVector
         DVector& operator+=(const DVector &other);
         DVector& operator=(const DVector &other);
         const DVector operator*(double val)const;
-        double operator*(const DVector &other);
+
+        double operator*(const DVector &other)const;
         friend ostream& operator<<(ostream& os, const DVector& vec);
 
         // Methods
