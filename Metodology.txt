@@ -1,0 +1,6 @@
+Mi planteo (14/09/2024)
+Iteración:
+Salgo en Hohmann desde la Tierra a Venus.
+•	Asumo: Tierra en apogeo, una distancia para Venus.  Fechas de Tierra en Apogeo (después sinódico con Venus)
+•	Calculo el DT de la mitad de orbita y taduzco eso en angulo para la orbita de Venus.
+•	Venus en ese DT hace 180 mas Theta.  Resto a la fecha de coicidencia sinódica con venus el tiempo en el que recorre Theta para ajustar la fecha de lanzamiento. 
