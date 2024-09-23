@@ -18,3 +18,17 @@ the makeall.csh file.
 		a) -> Cygwin C++ Compiler -> Incudes -> Include paths -> Add -> yourpath/cspice/include
 		b) -> Cygwin C++ Linker -> Libraries -> Add -> "cspice" (no lib, no .a)
 								-> Library search path -> Add -> yourpath/cspice/lib
+								
+------------------------
+Training Lessons order
+------------------------
+
+      Navigating Through the SPICE Components  (toolkit_contents)
+      Basics, Building SPICE Applications      (start_programming)
+      Remote Sensing, using CASSINI            (remote_sensing)
+      Geometric Event Finding, using MEX       (event_finding)
+      In-situ Sensing, using CASSINI           (insitu_sensing)
+      Binary PCK                               (binary_pck)
+      Other Stuff                              (other_stuff)
+      Practice Using Toolkit Applications      (toolkit_programs)
+      Doing SPICE Hands-On Lessons Using WGC   (lessons_wgc)
